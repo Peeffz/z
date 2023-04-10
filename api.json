@@ -1,0 +1,14 @@
+{
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://45.141.27.228/mobile/sampapk.zip",
+    "URL_GAME_FILES_UPD" : "http://45.141.27.228/mobile/sampapk1.zip",
+    "URL_VK": "",
+    "URL_DISCORD": "",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "",
+    "URL_CLIENTSAMPAPK": "http://45.141.27.228/mobile/NONANEMCITYAPK.apk"
+}

@@ -1,0 +1,16 @@
+[
+    {
+      "connecter": 1,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Red",
+      "online": 958
+    },
+    {
+      "connecter": 2,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Test",
+      "online": 500
+    }
+]
