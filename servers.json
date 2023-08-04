@@ -1,10 +1,11 @@
 [
-    {
-      "color": "FF0000",
-      "dopname": "",
-      "maxonline": 1000,
-      "name": " Prices ",
-      "online": 1
-    }
-  ]
-
+	{
+		"ip": "85.203.4.119",
+		"port": 7777,
+		"id": 0,
+		"color":"ff2624", 
+		"action": 0,
+		"key":"1424",
+		"name":"HIGHLANDER MODELS"
+	}
+]
