@@ -2,13 +2,13 @@
     "clientVersionCode": 1,
     "clientSampVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://45.141.27.228/mobile/sampapk.zip",
-    "URL_GAME_FILES_UPD" : "http://45.141.27.228/mobile/sampapk1.zip",
-    "URL_VK": "",
-    "URL_DISCORD": "",
+    "URL_GAME_FILES" : "http://85.203.4.119/HIGHLANDERMODELS/game.rar",
+    "URL_GAME_FILES_UPD" : "http://85.203.4.119/HIGHLANDERMODELS/files_upd.rar",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
     "URL_YOUTUBE": "",
     "URL_FORUM": "",
     "URL_DONATE": "",
-    "URL_CLIENT": "",
-    "URL_CLIENTSAMPAPK": "http://45.141.27.228/mobile/NONANEMCITYAPK.apk"
+    "URL_CLIENT": "http://85.203.4.119/HIGHLANDERMODELS/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://85.203.4.119/HIGHLANDERMODELS/client.apk"
 }
