@@ -1,11 +1,11 @@
 [
-	{
-		"ip": "85.203.4.119",
-		"port": 7777,
-		"id": 0,
-		"color":"ff2624", 
-		"action": 0,
-		"key":"1424",
-		"name":"HIGHLANDER MODELS"
-	}
+    {
+        "ip": "127.0.0.1",
+        "port": 7777,
+        "id": 0,
+        "color":"ff2624", 
+        "action": 0,
+        "key":"1424",
+        "name":"TEST"
+    }
 ]

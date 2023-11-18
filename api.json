@@ -1,14 +1,15 @@
 {
-    "clientVersionCode": 1,
-    "clientSampVersionCode": 1,
+ 
+    
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://85.203.4.119/HIGHLANDERMODELS/game.rar",
-    "URL_GAME_FILES_UPD" : "http://85.203.4.119/HIGHLANDERMODELS/files_upd.rar",
+    "URL_GAME_FILES" : "http://0.0.0.0:8080/mobile/pp.zip",
+    "URL_GAME_FILES_UPD" : "http://0.0.0.0:8080/mobile/pp.zip",
+	"URL_FILE_DOWNLOAD" : "http://0.0.0.0:8080/mobile/pp.zip",
     "URL_VK": "https://vk.com/",
-    "URL_DISCORD": "https://discord.gg/",
+    "URL_DISCORD": "https://discord.gg/whitecity",
     "URL_YOUTUBE": "",
-    "URL_FORUM": "",
+    "URL_FACEBOOK": "https://www.facebook.com/whitecityfivem",
     "URL_DONATE": "",
-    "URL_CLIENT": "http://85.203.4.119/HIGHLANDERMODELS/launcher.apk",
-    "URL_CLIENTSAMPAPK": "http://85.203.4.119/HIGHLANDERMODELS/client.apk"
+    "URL_CLIENT": "http://43.229.79.123/api/mobile/client.apk",
+    "URL_CLIENTSAMPAPK": "http://43.229.79.123/api/mobile/client1.apk"
 }
