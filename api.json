@@ -2,7 +2,7 @@
  
     
     "gameFilesVersionCode": 1,
-    "clientVersionCode": 1,
+    
     "URL_GAME_FILES" : "http://0.0.0.0:8080/mobile/pp.zip",
     "URL_GAME_FILES_UPD" : "http://0.0.0.0:8080/mobile/pp.zip",
 	"URL_FILE_DOWNLOAD" : "http://0.0.0.0:8080/mobile/pp.zip",
