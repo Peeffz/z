@@ -1,8 +1,8 @@
 {    
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://103.131.200.96/mobile_/evolutionmod/game.zip",
-    "URL_GAME_FILES_UPD" : "http://103.131.200.96/mobile_/evolutionmod/game.zip",
-	"URL_FILE_DOWNLOAD" : "http://103.131.200.96/mobile_/evolutionmod/game.zip",
+    "URL_GAME_FILES" : "",
+    "URL_GAME_FILES_UPD" : "",
+	"URL_FILE_DOWNLOAD" : "",
     "URL_VK": "https://vk.com/",
     "URL_DISCORD": "https://discord.gg/whitecity",
     "URL_YOUTUBE": "",
