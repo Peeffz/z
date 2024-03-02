@@ -1,5 +1,14 @@
 {
-    "status": 1,
-    
-    
+    "status": 1,  
+    "clientSampVersionCode": 1,    
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://127.0.0.1/game.zip",
+    "URL_GAME_FILES_UPD" : "http://127.0.0.1/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://127.0.0.1/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://127.0.0.1/client.apk"
 }
