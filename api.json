@@ -1,7 +1,4 @@
-{
-    "status": 1,  
-   
-    "gameFilesVersionCode": 1,
+{   
     "URL_GAME_FILES" : "http://127.0.0.1/game.zip",
     "URL_GAME_FILES_UPD" : "http://127.0.0.1/files_upd.zip",
     "URL_VK": "https://vk.com/",
