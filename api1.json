@@ -1,6 +1,12 @@
-{
-    "clientVersionCode": 2,
-    "gameFilesVersionCode": 2,
-    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/l0zg91ubo6klisk4angbb/RealRussia.zip?rlkey=lmkaofde1f4nx1atpjvdout5j&dl=1",
-    "URL_CLIENT": "https://cdn.glitch.me/6f5b541b-90aa-4fd6-91b6-e7da9e5e551b/launcher.apk?v=1669475410691"
+{   
+    "gameFilesVersionCode": 10,
+    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/l81p8zwasibmm8sm3lekq/TEST.zip?rlkey=m9k8n8lpymo9hn8ycbvcru97d&dl=1",
+    "URL_GAME_FILES_UPD" : "https://www.dropbox.com/scl/fi/l81p8zwasibmm8sm3lekq/TEST.zip?rlkey=m9k8n8lpymo9hn8ycbvcru97d&dl=1",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://127.0.0.1/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://127.0.0.1/client.apk"
 }
